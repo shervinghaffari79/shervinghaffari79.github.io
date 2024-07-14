@@ -1,8 +1,6 @@
-// src/components/AboutMe.jsx
 import React from 'react';
 import { Image, Container, Row, Col } from 'react-bootstrap';
 import styles from './about.module.scss';
-// import img from '../../assets/img.jpg';
 import memoji from '../../assets/worker.gif';
 
 const AboutMe = () => {

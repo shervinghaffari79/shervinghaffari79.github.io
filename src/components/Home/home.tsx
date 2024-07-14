@@ -38,7 +38,7 @@ const Home: React.FC = () => {
             Computer Science Student at Amirkabir University of Technology.
           </p>
           <Button href='#Contact' className={styles.btn}>Get in touch</Button>
-          <Button href=''  className={styles.btn}>Resume</Button>
+          <Button href='https://raw.githubusercontent.com/shervinghaffari79/Resume/main/CV_Shervin_Ghaffari.pdf'  className={styles.btn}>Resume</Button>
           <Row className="py-3 d-flex">
           <Col className="d-flex align-items-center justify-content-center">
               <NavLink href="https://scholar.google.com/citations?hl=en&user=oo7dtBkAAAAJ" target="_blank" className={styles.social_icon}>
