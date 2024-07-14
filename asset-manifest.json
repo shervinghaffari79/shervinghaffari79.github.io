@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shervinghaffari79/shervinghaffari79.github.io/static/css/main.dd6627a3.css",
+    "main.js": "/shervinghaffari79/shervinghaffari79.github.io/static/js/main.1eda9bb1.js",
+    "static/js/453.1407b060.chunk.js": "/shervinghaffari79/shervinghaffari79.github.io/static/js/453.1407b060.chunk.js",
+    "static/media/worker.gif": "/shervinghaffari79/shervinghaffari79.github.io/static/media/worker.268f72851b735d758cc8.gif",
+    "static/media/candycrush.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/candycrush.7c7ab65721147acd516c.png",
+    "static/media/trello.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/trello.49a11021b71d7379f3c7.png",
+    "static/media/mpso.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/mpso.591baa8663c7c28af53f.png",
+    "static/media/mlp.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/mlp.569876cce69bc49d64f1.png",
+    "static/media/monopoly.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/monopoly.60d80e11cef53b61e5bc.png",
+    "static/media/kan.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/kan.71db40ee286625d9ac79.png",
+    "static/media/sudoku.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/sudoku.beb1ce30ab468008ed0b.png",
+    "static/media/memoji1.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/memoji1.b9cddb177d2a542a84d5.png",
+    "static/media/nqueen.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/nqueen.4b1dcde41ce698c2ce73.png",
+    "static/media/encdec.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/encdec.780815fb12f7e82ce227.png",
+    "static/media/gan.png": "/shervinghaffari79/shervinghaffari79.github.io/static/media/gan.2fd23448004a1febe05f.png",
+    "index.html": "/shervinghaffari79/shervinghaffari79.github.io/index.html",
+    "main.dd6627a3.css.map": "/shervinghaffari79/shervinghaffari79.github.io/static/css/main.dd6627a3.css.map",
+    "main.1eda9bb1.js.map": "/shervinghaffari79/shervinghaffari79.github.io/static/js/main.1eda9bb1.js.map",
+    "453.1407b060.chunk.js.map": "/shervinghaffari79/shervinghaffari79.github.io/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd6627a3.css",
+    "static/js/main.1eda9bb1.js"
+  ]
+}
