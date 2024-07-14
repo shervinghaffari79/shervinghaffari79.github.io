@@ -1,0 +1,115 @@
+.subtitle {
+    color: #b1b1b1;
+    font-size: 1rem;
+    margin-bottom: 0px !important;
+    margin-top: 80px !important;
+  }
+  
+  .projects {
+    font-size: 2.8rem !important;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    margin-top: 5px !important;
+  }
+
+  .paragraph{
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    line-height: 1.4 !important;
+    text-align: justify !important;
+  }
+  
+  .btn {
+    width: 12rem;
+    height: 45px;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    color: rgb(240, 240, 240) !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.5px;
+    border-color:rgb(210, 210, 210) !important;
+    border-radius: 25px !important;
+    margin: 0px 10px;
+    margin-top: 20px;
+    padding: 0 20px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: all 0.3s ease !important;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      120deg,
+      transparent,
+      rgba(255, 255, 255, 0.2),
+      transparent
+    );
+    transition: all 0.4s ease;
+  }
+  
+  .btn:hover {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    color: rgb(255, 255, 255) !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    transform: translateY(-2px);
+  }
+  
+  .btn:hover::before {
+    left: 100%;
+  }
+  
+  .btn:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+
+.contentRow{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 24px !important;
+}
+
+  .profileImage{
+    width: 100%;
+    max-width: 400px !important;
+    height: auto;
+    margin-bottom: 20px !important;
+    border-radius: 1.2rem !important;
+  }
+
+  @media (min-width: 768px) and (max-width: 991px) {
+    .contentRow {
+      flex-direction: column !important;
+    }
+    .profileImage{
+        max-width: 100% !important;
+    }
+    .contentCol{
+        width: 80% !important;
+    }
+    .paragraph{
+      margin-top: 30px !important;
+    }
+
+  }
+
+  @media (max-width:768px) {
+    .contentRow {
+      flex-direction: column !important;
+    }
+    .paragraph{
+      font-size: 0.9rem !important;
+    }
+  }

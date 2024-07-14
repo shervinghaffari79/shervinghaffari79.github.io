@@ -1,0 +1,38 @@
+.skillsContainer {
+    margin-top: 80px !important;
+    padding-bottom: 30px !important;
+  }
+  
+  .subtitle {
+    color: #b1b1b1;
+    font-size: 1rem;
+    margin-bottom: 0px !important;
+  }
+  
+  .skills {
+    font-size: 2.8rem !important;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    margin-top: 5px !important;
+  }
+  
+  .skillCard {
+    background: rgba(255, 255, 255, 0.1) !important; /* Transparent background */
+    border: none !important;
+    padding: 1rem !important;
+    border-radius: 8px !important;
+    backdrop-filter: blur(10px) !important; /* Blur effect */
+    color: #fff !important;
+    text-align: center !important;
+  }
+  
+  .skillName {
+    font-size: 1.5rem !important;
+    font-weight: bold !important;
+    margin-bottom: 0.5rem !important;
+  }
+  
+  .skillLevel {
+    font-size: 1.2rem !important;
+    color: #bbb !important;
+  }
