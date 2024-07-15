@@ -123,7 +123,7 @@ const ProjectsSlider = () => {
                   <p className={`${styles.paragraph} mb-4`}>
                     {project.description}
                   </p>
-                  <Button href={project.link} className={styles.btn}>View on Github</Button>
+                  <Button href={project.link} className={styles.btn}>View Project</Button>
                 </Col>
               </Row>
             </Carousel.Item>

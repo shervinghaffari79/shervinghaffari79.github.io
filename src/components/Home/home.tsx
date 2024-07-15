@@ -2,7 +2,7 @@ import React from 'react';
 import { Container,Image, Row, Col, Button, NavLink } from 'react-bootstrap';
 import {FaEnvelope, FaGithub, FaLinkedin } from 'react-icons/fa';
 import styles from './home.module.scss';
-import memoji from '../../assets/memoji1.png';
+import memoji from '../../assets/bernard.gif';
 import Typewriter from 'typewriter-effect';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { FaGoogleScholar } from 'react-icons/fa6';
